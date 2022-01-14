@@ -1,0 +1,1 @@
+extern short *metaEHZ;

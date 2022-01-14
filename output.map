@@ -1,0 +1,1231 @@
+Archive member included to satisfy reference by file (symbol)
+
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-__call_atexit.o)
+                              crtstuff.o (___call_exitprocs)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-atexit.o)
+                              crtstuff.o (_atexit)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-impure.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-__call_atexit.o) (__global_impure_ptr)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-vsnprintf.o)
+                              hw_32x.o (_vsnprintf)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-__atexit.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-atexit.o) (___register_exitproc)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfprintf.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-vsnprintf.o) (__svfprintf_r)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-dtoa.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfprintf.o) (__dtoa_r)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-localeconv.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfprintf.o) (__localeconv_r)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mallocr.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfprintf.o) (__malloc_r)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memchr.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfprintf.o) (_memchr)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memcpy.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-dtoa.o) (_memcpy)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mlock.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mallocr.o) (___malloc_lock)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mprec.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-dtoa.o) (__Balloc)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-sbrkr.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mallocr.o) (__sbrk_r)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-strlen.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfprintf.o) (_strlen)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfiprintf.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfprintf.o) (___ssprint_r)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-syscalls.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-sbrkr.o) (__sbrk)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-trap.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-syscalls.o) (___trap34)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-abort.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-syscalls.o) (_abort)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-callocr.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mprec.o) (__calloc_r)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-freer.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mallocr.o) (__free_r)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-locale.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-localeconv.o) (___global_locale)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mbtowc_r.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-locale.o) (___ascii_mbtowc)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memmove.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfiprintf.o) (_memmove)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memset.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-callocr.o) (_memset)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-reallocr.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfiprintf.o) (__realloc_r)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-signal.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-abort.o) (_raise)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-signalr.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-signal.o) (__kill_r)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-strcmp.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-locale.o) (_strcmp)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-wctomb_r.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-locale.o) (___ascii_wctomb)
+/opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-ctype_.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-locale.o) (__ctype_b)
+/opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ashiftrt.o)
+                              main.o (___ashiftrt_r4_7)
+/opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ashiftrt_n.o)
+                              hw_32x.o (___ashrsi3)
+/opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ashiftlt.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-__call_atexit.o) (___ashlsi3_r0)
+/opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_lshiftrt.o)
+                              hw_32x.o (___lshrsi3_r0)
+/opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_sdivsi3.o)
+                              hw_32x.o (___sdivsi3)
+/opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_udivsi3.o)
+                              main.o (___udivsi3)
+/opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_udivdi3.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfprintf.o) (___udivdi3)
+/opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_umoddi3.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfprintf.o) (___umoddi3)
+/opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_addsub_df.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-dtoa.o) (___adddf3)
+/opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_mul_df.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-dtoa.o) (___muldf3)
+/opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_div_df.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-dtoa.o) (___divdf3)
+/opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_eq_df.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfprintf.o) (___eqdf2)
+/opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ne_df.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfprintf.o) (___nedf2)
+/opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_gt_df.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-dtoa.o) (___gtdf2)
+/opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ge_df.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-dtoa.o) (___gedf2)
+/opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_lt_df.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfprintf.o) (___ltdf2)
+/opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_le_df.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfprintf.o) (___ledf2)
+/opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_unord_df.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfprintf.o) (___unorddf2)
+/opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_si_to_df.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-dtoa.o) (___floatsidf)
+/opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_df_to_si.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-dtoa.o) (___fixdfsi)
+/opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_thenan_df.o)
+                              /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_addsub_df.o) (___thenan_df)
+/opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_usi_to_df.o)
+                              /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-dtoa.o) (___floatunsidf)
+/opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_udiv_qrnnd_16.o)
+                              /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_udivdi3.o) (___udiv_qrnnd_16)
+/opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_clz.o)
+                              /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_udivdi3.o) (___clz_tab)
+/opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_clzsi2.o)
+                              /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_si_to_df.o) (___clzsi2)
+/opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_pack_df.o)
+                              /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_addsub_df.o) (___pack_d)
+/opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_unpack_df.o)
+                              /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_addsub_df.o) (___unpack_d)
+/opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_fpcmp_parts_df.o)
+                              /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_eq_df.o) (___fpcmp_parts_d)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-syscalls.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x0000000002000000 0x0000000000400000 xr
+ram              0x0000000006000000 0x000000000003fc00 xw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD sh2_crt0.o
+LOAD crtstuff.o
+LOAD main.o
+LOAD hw_32x.o
+LOAD font.o
+LOAD palettes.o
+LOAD art.o
+LOAD bmap.o
+LOAD meta.o
+LOAD flayout.o
+LOAD blayout.o
+LOAD /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/../../../../sh-elf/lib/!m2/libstdc++.a
+LOAD /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a
+LOAD /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a
+LOAD /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc-Os-4-200.a
+LOAD /opt/toolchains/sega/sh-elf/sh-elf/lib/libnosys.a
+                0x0000000000000000                __DYNAMIC = 0x0
+                [!provide]                        PROVIDE (__stack = 0x603fc00)
+
+.text           0x0000000002000000    0x37140 load address 0x0000000000000000
+                0x0000000002000000                __text_start = .
+ *(.text)
+ .text          0x0000000002000000     0x1ce8 sh2_crt0.o
+                0x0000000002001ce8                _start
+ .text          0x0000000002001ce8       0x5c crtstuff.o
+ .text          0x0000000002001d44      0xb0c main.o
+                0x0000000002001d44                __Z16initColorPalettev
+                0x0000000002001d68                __Z11loadPalettev
+                0x0000000002001d90                __Z7loadArtv
+                0x0000000002001db4                __Z12loadBlockMapv
+                0x0000000002001ddc                __Z16loadMetablockMapv
+                0x0000000002001e04                __Z15loadFrontLayoutv
+                0x0000000002001e54                __Z14loadBackLayoutv
+                0x0000000002001e78                __Z10drawHeaderv
+                0x0000000002001e90                __Z19queueMetablockTileshss
+                0x0000000002002124                __Z10queueTilesv
+                0x0000000002002250                __Z9drawLevelv
+                0x0000000002002518                __Z10drawScreeni
+ .text          0x0000000002002850      0xd18 hw_32x.o
+                0x0000000002002850                _VIntHandler
+                0x0000000002002868                _Hw32xGetVblankCount
+                0x000000000200287c                _Hw32xSetFGColor
+                0x00000000020028b8                _Hw32xSetBGColor
+                0x00000000020028f4                _Hw32xInit
+                0x0000000002002c2c                _Hw32xScreenGetX
+                0x0000000002002c38                _Hw32xScreenGetY
+                0x0000000002002c44                _Hw32xScreenSetXY
+                0x0000000002002c80                _Hw32xScreenClear
+                0x0000000002002d44                _Hw32xScreenPutChar
+                0x0000000002002e7c                _Hw32xScreenClearLine
+                0x0000000002002eb8                _Hw32xScreenPrintData
+                0x0000000002002fc0                _Hw32xScreenPuts
+                0x0000000002003054                _Hw32xScreenPutsn
+                0x0000000002003068                _Hw32xScreenPrintf
+                0x00000000020030b0                _Hw32xDelay
+                0x00000000020030c8                _Hw32xScreenFlip
+                0x00000000020030fc                _Hw32xFlipWait
+                0x0000000002003124                _HwMdReadPad
+                0x0000000002003150                _HwMdReadSram
+                0x0000000002003184                _HwMdWriteSram
+                0x00000000020031b8                _HwMdReadMouse
+                0x00000000020031f4                _HwMdClearScreen
+                0x0000000002003218                _HwMdSetOffset
+                0x0000000002003248                _HwMdSetNTable
+                0x0000000002003278                _HwMdSetVram
+                0x00000000020032a8                _HwMdPuts
+                0x00000000020032f4                _HwMdPutc
+                0x000000000200332c                _HwMdPutsf
+                0x0000000002003384                _HwMdPrintHexValue
+                0x000000000200340c                _HwMdPrintDecValue
+                0x0000000002003478                _HwMdPrintFloatValue
+                0x0000000002003528                _HwMdClearPrint
+                0x0000000002003564                _slave
+ .text          0x0000000002003568        0x0 font.o
+ .text          0x0000000002003568      0x204 palettes.o
+                0x0000000002003768                _palEHZ
+ .text          0x000000000200376c    0x20004 art.o
+                0x000000000202376c                _artEHZ
+ .text          0x0000000002023770     0x2004 bmap.o
+                0x0000000002025770                _bmapEHZ
+ .text          0x0000000002025774     0x8004 meta.o
+                0x000000000202d774                _metaEHZ
+ .text          0x000000000202d778      0x804 flayout.o
+                0x000000000202df78                _flayoutEHZ1
+ .text          0x000000000202df7c       0x84 blayout.o
+                0x000000000202dffc                _blayoutEHZ1
+ .text          0x000000000202e000       0xd8 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-__call_atexit.o)
+                0x000000000202e000                ___call_exitprocs
+ .text          0x000000000202e0d8       0x10 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-atexit.o)
+                0x000000000202e0d8                _atexit
+ .text          0x000000000202e0e8        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-impure.o)
+ .text          0x000000000202e0e8       0xb0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-vsnprintf.o)
+                0x000000000202e0e8                __vsnprintf_r
+                0x000000000202e174                _vsnprintf
+ .text          0x000000000202e198       0x98 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-__atexit.o)
+                0x000000000202e198                ___register_exitproc
+ .text          0x000000000202e230     0x1d6c /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfprintf.o)
+                0x000000000202e230                __svfprintf_r
+ .text          0x000000000202ff9c     0x1468 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-dtoa.o)
+                0x000000000203010c                __dtoa_r
+ .text          0x0000000002031404       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-localeconv.o)
+                0x0000000002031404                ___localeconv_l
+                0x000000000203140c                __localeconv_r
+                0x0000000002031418                _localeconv
+ .text          0x0000000002031424      0x5f0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mallocr.o)
+                0x0000000002031424                __malloc_r
+ .text          0x0000000002031a14       0xbc /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memchr.o)
+                0x0000000002031a14                _memchr
+ .text          0x0000000002031ad0       0x94 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memcpy.o)
+                0x0000000002031ad0                _memcpy
+ .text          0x0000000002031b64        0x8 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mlock.o)
+                0x0000000002031b64                ___malloc_lock
+                0x0000000002031b68                ___malloc_unlock
+ .text          0x0000000002031b6c      0xca8 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mprec.o)
+                0x0000000002031b6c                __Balloc
+                0x0000000002031be0                __Bfree
+                0x0000000002031bf8                ___multadd
+                0x0000000002031ca8                ___s2b
+                0x0000000002031d78                ___hi0bits
+                0x0000000002031dd0                ___lo0bits
+                0x0000000002031e3c                ___i2b
+                0x0000000002031e58                ___multiply
+                0x0000000002031fd4                ___pow5mult
+                0x00000000020320b4                ___lshift
+                0x00000000020321ec                ___mcmp
+                0x0000000002032228                ___mdiff
+                0x0000000002032394                ___ulp
+                0x000000000203240c                ___b2d
+                0x0000000002032528                ___d2b
+                0x0000000002032630                ___ratio
+                0x00000000020326cc                __mprec_log10
+                0x0000000002032734                ___copybits
+                0x000000000203278c                ___any_on
+ .text          0x0000000002032814       0x38 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-sbrkr.o)
+                0x0000000002032814                __sbrk_r
+ .text          0x000000000203284c       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-strlen.o)
+                0x000000000203284c                _strlen
+ .text          0x000000000203286c      0xe20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfiprintf.o)
+                0x000000000203286c                ___ssprint_r
+                0x00000000020329d8                __svfiprintf_r
+ .text          0x000000000203368c      0x278 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-syscalls.o)
+                0x0000000002033710                __read
+                0x0000000002033720                __lseek
+                0x0000000002033730                __write
+                0x0000000002033740                __close
+                0x0000000002033750                __link
+                0x0000000002033754                __sbrk
+                0x00000000020337bc                __fstat
+                0x00000000020337c8                __open
+                0x00000000020337d8                __creat
+                0x00000000020337e8                __unlink
+                0x00000000020337ec                _isatty
+                0x00000000020337f0                __isatty
+                0x00000000020337f4                __exit
+                0x0000000002033804                __kill
+                0x0000000002033818                __getpid
+                0x000000000203381c                __raise
+                0x0000000002033820                __stat
+                0x0000000002033830                __chmod
+                0x0000000002033840                __chown
+                0x0000000002033850                __utime
+                0x0000000002033864                __fork
+                0x0000000002033870                __wait
+                0x0000000002033880                __execve
+                0x0000000002033890                __execv
+                0x00000000020338a0                __pipe
+                0x00000000020338ac                __times
+                0x00000000020338b0                __gettimeofday
+                0x00000000020338d8                ___setup_argv_and_call_main
+ .text          0x0000000002033904       0x14 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-trap.o)
+                0x0000000002033904                ___trap34
+ .text          0x0000000002033918       0x18 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-abort.o)
+                0x0000000002033918                _abort
+ .text          0x0000000002033930       0x80 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-callocr.o)
+                0x0000000002033930                __calloc_r
+ .text          0x00000000020339b0      0x304 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-freer.o)
+                0x00000000020339b0                __malloc_trim_r
+                0x0000000002033a84                __free_r
+ .text          0x0000000002033cb4       0x70 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-locale.o)
+                0x0000000002033cb4                __setlocale_r
+                0x0000000002033d04                ___locale_mb_cur_max
+                0x0000000002033d10                _setlocale
+ .text          0x0000000002033d24       0x54 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mbtowc_r.o)
+                0x0000000002033d24                __mbtowc_r
+                0x0000000002033d30                ___ascii_mbtowc
+ .text          0x0000000002033d78       0xd4 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memmove.o)
+                0x0000000002033d78                _memmove
+ .text          0x0000000002033e4c       0x40 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memset.o)
+                0x0000000002033e4c                _memset
+ .text          0x0000000002033e8c      0x3d8 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-reallocr.o)
+                0x0000000002033e8c                __realloc_r
+ .text          0x0000000002034264      0x1fc /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-signal.o)
+                0x000000000203429c                __init_signal_r
+                0x00000000020342b8                __signal_r
+                0x000000000203430c                __raise_r
+                0x000000000203438c                ___sigtramp_r
+                0x0000000002034400                _raise
+                0x0000000002034414                _signal
+                0x0000000002034428                __init_signal
+                0x000000000203444c                ___sigtramp
+ .text          0x0000000002034460       0x48 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-signalr.o)
+                0x0000000002034460                __kill_r
+                0x000000000203449c                __getpid_r
+ .text          0x00000000020344a8       0x38 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-strcmp.o)
+                0x00000000020344a8                _strcmp
+ .text          0x00000000020344e0       0x2c /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-wctomb_r.o)
+                0x00000000020344e0                __wctomb_r
+                0x00000000020344ec                ___ascii_wctomb
+ .text          0x000000000203450c        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-ctype_.o)
+ .text          0x000000000203450c       0x52 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ashiftrt.o)
+                0x000000000203450c                ___ashiftrt_r4_31
+                0x000000000203450c                ___ashiftrt_r4_32
+                0x0000000002034512                ___ashiftrt_r4_30
+                0x0000000002034514                ___ashiftrt_r4_29
+                0x0000000002034516                ___ashiftrt_r4_28
+                0x0000000002034518                ___ashiftrt_r4_27
+                0x000000000203451a                ___ashiftrt_r4_26
+                0x000000000203451c                ___ashiftrt_r4_25
+                0x000000000203451e                ___ashiftrt_r4_24
+                0x0000000002034526                ___ashiftrt_r4_23
+                0x0000000002034528                ___ashiftrt_r4_22
+                0x000000000203452a                ___ashiftrt_r4_21
+                0x000000000203452c                ___ashiftrt_r4_20
+                0x000000000203452e                ___ashiftrt_r4_19
+                0x0000000002034530                ___ashiftrt_r4_18
+                0x0000000002034532                ___ashiftrt_r4_17
+                0x0000000002034534                ___ashiftrt_r4_16
+                0x000000000203453a                ___ashiftrt_r4_15
+                0x000000000203453c                ___ashiftrt_r4_14
+                0x000000000203453e                ___ashiftrt_r4_13
+                0x0000000002034540                ___ashiftrt_r4_12
+                0x0000000002034542                ___ashiftrt_r4_11
+                0x0000000002034544                ___ashiftrt_r4_10
+                0x0000000002034546                ___ashiftrt_r4_9
+                0x0000000002034548                ___ashiftrt_r4_8
+                0x000000000203454a                ___ashiftrt_r4_7
+                0x000000000203454c                ___ashiftrt_r4_6
+                0x000000000203454e                ___ashiftrt_r4_5
+                0x0000000002034550                ___ashiftrt_r4_4
+                0x0000000002034552                ___ashiftrt_r4_3
+                0x0000000002034554                ___ashiftrt_r4_2
+                0x0000000002034556                ___ashiftrt_r4_1
+                0x000000000203455a                ___ashiftrt_r4_0
+ *fill*         0x000000000203455e        0x2 
+ .text          0x0000000002034560       0x80 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ashiftrt_n.o)
+                0x0000000002034560                ___ashrsi3
+ .text          0x00000000020345e0       0xbc /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ashiftlt.o)
+                0x00000000020345e0                ___ashlsi3
+                0x00000000020345e4                ___ashlsi3_r0
+ .text          0x000000000203469c       0xbc /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_lshiftrt.o)
+                0x000000000203469c                ___lshrsi3
+                0x00000000020346a0                ___lshrsi3_r0
+ .text          0x0000000002034758       0xa0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_sdivsi3.o)
+                0x0000000002034758                ___sdivsi3
+ .text          0x00000000020347f8       0x6c /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_udivsi3.o)
+                0x000000000203481a                ___udivsi3
+ .text          0x0000000002034864      0x248 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_udivdi3.o)
+                0x0000000002034864                ___udivdi3
+ .text          0x0000000002034aac      0x2b0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_umoddi3.o)
+                0x0000000002034aac                ___umoddi3
+ .text          0x0000000002034d5c      0x3e0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_addsub_df.o)
+                0x0000000002035098                ___adddf3
+                0x00000000020350e8                ___subdf3
+ .text          0x000000000203513c      0x208 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_mul_df.o)
+                0x000000000203513c                ___muldf3
+ .text          0x0000000002035344      0x130 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_div_df.o)
+                0x0000000002035344                ___divdf3
+ .text          0x0000000002035474       0x58 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_eq_df.o)
+                0x0000000002035474                ___eqdf2
+ .text          0x00000000020354cc       0x58 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ne_df.o)
+                0x00000000020354cc                ___nedf2
+ .text          0x0000000002035524       0x58 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_gt_df.o)
+                0x0000000002035524                ___gtdf2
+ .text          0x000000000203557c       0x58 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ge_df.o)
+                0x000000000203557c                ___gedf2
+ .text          0x00000000020355d4       0x58 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_lt_df.o)
+                0x00000000020355d4                ___ltdf2
+ .text          0x000000000203562c       0x58 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_le_df.o)
+                0x000000000203562c                ___ledf2
+ .text          0x0000000002035684       0x48 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_unord_df.o)
+                0x0000000002035684                ___unorddf2
+ .text          0x00000000020356cc       0xa8 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_si_to_df.o)
+                0x00000000020356cc                ___floatsidf
+ .text          0x0000000002035774       0xa0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_df_to_si.o)
+                0x0000000002035774                ___fixdfsi
+ .text          0x0000000002035814        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_thenan_df.o)
+ .text          0x0000000002035814       0x88 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_usi_to_df.o)
+                0x0000000002035814                ___floatunsidf
+ *fill*         0x000000000203589c        0x4 
+ .text          0x00000000020358a0       0x60 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_udiv_qrnnd_16.o)
+                0x00000000020358a0                ___udiv_qrnnd_16
+ .text          0x0000000002035900        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_clz.o)
+ .text          0x0000000002035900       0x54 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_clzsi2.o)
+                0x0000000002035900                ___clzsi2
+ .text          0x0000000002035954      0x274 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_pack_df.o)
+                0x0000000002035954                ___pack_d
+ .text          0x0000000002035bc8       0xcc /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_unpack_df.o)
+                0x0000000002035bc8                ___unpack_d
+ .text          0x0000000002035c94       0xc8 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_fpcmp_parts_df.o)
+                0x0000000002035c94                ___fpcmp_parts_d
+ *(.text.*)
+ .text.startup  0x0000000002035d5c      0x450 main.o
+                0x0000000002035d5c                _main
+ *(.gnu.linkonce.t.*)
+                0x00000000020361b0                . = ALIGN (0x10)
+ *fill*         0x00000000020361ac        0x4 
+                0x00000000020361b0                __INIT_SECTION__ = .
+ *(.init)
+ .init          0x00000000020361b0       0x40 crtstuff.o
+                0x00000000020361f0        0x2 SHORT 0xb
+                0x00000000020361f2        0x2 SHORT 0x9
+                0x0000000002036200                . = ALIGN (0x10)
+ *fill*         0x00000000020361f4        0xc 
+                0x0000000002036200                __FINI_SECTION__ = .
+ *(.fini)
+ .fini          0x0000000002036200        0xc crtstuff.o
+                0x000000000203620c        0x2 SHORT 0xb
+                0x000000000203620e        0x2 SHORT 0x9
+ *(.eh_frame_hdr)
+ *(.eh_frame)
+ .eh_frame      0x0000000002036210       0xa8 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_udivdi3.o)
+ .eh_frame      0x00000000020362b8       0xdc /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_umoddi3.o)
+ *(.gcc_except_table)
+ *(.gcc_except_table.*)
+ *(.jcr)
+                0x00000000020363a0                . = ALIGN (0x10)
+ *fill*         0x0000000002036394        0xc 
+                0x00000000020363a0                __CTOR_LIST__ = .
+                0x00000000020363a0                ___CTOR_LIST__ = .
+                0x00000000020363a0        0x4 LONG 0x0 (((__CTOR_END__ - __CTOR_LIST__) / 0x4) - 0x2)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+                0x00000000020363a4        0x4 LONG 0x0
+                0x00000000020363a8                __CTOR_END__ = .
+                0x00000000020363b0                . = ALIGN (0x10)
+ *fill*         0x00000000020363a8        0x8 
+                0x00000000020363b0                __DTOR_LIST__ = .
+                0x00000000020363b0                ___DTOR_LIST__ = .
+                0x00000000020363b0        0x4 LONG 0x0 (((__DTOR_END__ - __DTOR_LIST__) / 0x4) - 0x2)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+                0x00000000020363b4        0x4 LONG 0x0
+                0x00000000020363b8                __DTOR_END__ = .
+ *(.rdata)
+ *(.rodata)
+ .rodata        0x00000000020363b8      0x800 font.o
+                0x00000000020363b8                _msx
+ .rodata        0x0000000002036bb8        0x4 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-impure.o)
+                0x0000000002036bb8                __global_impure_ptr
+ .rodata        0x0000000002036bbc       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfprintf.o)
+ .rodata        0x0000000002036bdc      0x124 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mprec.o)
+                0x0000000002036be8                ___mprec_tinytens
+                0x0000000002036c10                ___mprec_bigtens
+                0x0000000002036c38                ___mprec_tens
+ .rodata        0x0000000002036d00       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfiprintf.o)
+ .rodata        0x0000000002036d20      0x284 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-ctype_.o)
+                0x0000000002036d20                __ctype_
+                0x0000000002036e24                __ctype_b
+ .rodata        0x0000000002036fa4       0x14 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_thenan_df.o)
+                0x0000000002036fa4                ___thenan_df
+ .rodata        0x0000000002036fb8      0x100 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_clz.o)
+                0x0000000002036fb8                ___clz_tab
+ *(.rodata.*)
+ .rodata.str1.4
+                0x00000000020370b8        0x8 main.o
+ .rodata.str1.4
+                0x00000000020370c0       0x42 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfprintf.o)
+ *fill*         0x0000000002037102        0x2 
+ .rodata.str1.4
+                0x0000000002037104        0xd /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-dtoa.o)
+                                         0x12 (size before relaxing)
+ .rodata.str1.4
+                0x0000000002037111       0x2f /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfiprintf.o)
+ *fill*         0x0000000002037111        0x3 
+ .rodata.str1.4
+                0x0000000002037114       0x1a /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-syscalls.o)
+ *fill*         0x000000000203712e        0x2 
+ .rodata.str1.4
+                0x0000000002037130       0x10 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-locale.o)
+                                         0x12 (size before relaxing)
+ *(.gnu.linkonce.r.*)
+                0x0000000002037140                . = ALIGN (0x10)
+                0x0000000002037140                __text_end = .
+                0x0000000000037140                __text_size = (__text_end - __text_start)
+
+.rela.dyn       0x0000000002037140        0x0 load address 0x0000000000037140
+ .rela.text     0x0000000002037140        0x0 sh2_crt0.o
+ .rela.data     0x0000000002037140        0x0 sh2_crt0.o
+ .rela.init     0x0000000002037140        0x0 sh2_crt0.o
+
+.data           0x0000000006000000      0xf30 load address 0x0000000000037140
+                0x0000000006000000                __data_start = .
+ *(.data)
+ .data          0x0000000006000000      0x574 sh2_crt0.o
+                0x00000000060004e0                _fast_memcpy
+                0x00000000060004f0                _CacheClearLine
+                0x0000000006000500                _CacheControl
+                0x0000000006000510                _ScreenStretch
+ .data          0x0000000006000574        0x0 crtstuff.o
+ .data          0x0000000006000574        0xb main.o
+                0x0000000006000574                _updateFrameBufferLineTable
+                0x0000000006000576                _updateTileDrawQueue
+                0x0000000006000578                _cameraYHistory
+                0x000000000600057c                _cameraY
+                0x000000000600057e                _cyclerIncrement
+ *fill*         0x000000000600057f        0x1 
+ .data          0x0000000006000580        0x8 hw_32x.o
+ .data          0x0000000006000588        0x0 font.o
+ .data          0x0000000006000588        0x0 palettes.o
+ .data          0x0000000006000588        0x0 art.o
+ .data          0x0000000006000588        0x0 bmap.o
+ .data          0x0000000006000588        0x0 meta.o
+ .data          0x0000000006000588        0x0 flayout.o
+ .data          0x0000000006000588        0x0 blayout.o
+ .data          0x0000000006000588        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-__call_atexit.o)
+ .data          0x0000000006000588        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-atexit.o)
+ .data          0x0000000006000588      0x428 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-impure.o)
+                0x0000000006000588                __impure_ptr
+ .data          0x00000000060009b0        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-vsnprintf.o)
+ .data          0x00000000060009b0        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-__atexit.o)
+ .data          0x00000000060009b0        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfprintf.o)
+ .data          0x00000000060009b0        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-dtoa.o)
+ .data          0x00000000060009b0        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-localeconv.o)
+ .data          0x00000000060009b0      0x410 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mallocr.o)
+                0x00000000060009b0                ___malloc_sbrk_base
+                0x00000000060009b4                ___malloc_trim_threshold
+                0x00000000060009b8                ___malloc_av_
+ .data          0x0000000006000dc0        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memchr.o)
+ .data          0x0000000006000dc0        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memcpy.o)
+ .data          0x0000000006000dc0        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mlock.o)
+ .data          0x0000000006000dc0        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mprec.o)
+ .data          0x0000000006000dc0        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-sbrkr.o)
+ .data          0x0000000006000dc0        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-strlen.o)
+ .data          0x0000000006000dc0        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfiprintf.o)
+ .data          0x0000000006000dc0        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-syscalls.o)
+ .data          0x0000000006000dc0        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-trap.o)
+ .data          0x0000000006000dc0        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-abort.o)
+ .data          0x0000000006000dc0        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-callocr.o)
+ .data          0x0000000006000dc0        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-freer.o)
+ .data          0x0000000006000dc0      0x16c /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-locale.o)
+                0x0000000006000dc0                ___global_locale
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mbtowc_r.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memmove.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memset.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-reallocr.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-signal.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-signalr.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-strcmp.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-wctomb_r.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-ctype_.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ashiftrt.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ashiftrt_n.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ashiftlt.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_lshiftrt.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_sdivsi3.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_udivsi3.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_udivdi3.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_umoddi3.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_addsub_df.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_mul_df.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_div_df.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_eq_df.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ne_df.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_gt_df.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ge_df.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_lt_df.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_le_df.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_unord_df.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_si_to_df.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_df_to_si.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_thenan_df.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_usi_to_df.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_udiv_qrnnd_16.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_clz.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_clzsi2.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_pack_df.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_unpack_df.o)
+ .data          0x0000000006000f2c        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_fpcmp_parts_df.o)
+ *(.data.*)
+ *(.gnu.linkonce.d.*)
+ *(.lit8)
+ *(.lit4)
+ *(.sdata)
+ *(.sdata.*)
+ *(.gnu.linkonce.s.*)
+                0x0000000006000f30                . = ALIGN (0x10)
+ *fill*         0x0000000006000f2c        0x4 
+                0x0000000006000f30                __data_end = .
+                0x0000000000000f30                __data_size = (__data_end - __data_start)
+
+.bss            0x0000000006000f30    0x2bd90 load address 0x0000000000038070
+                0x0000000006000f30                __bss_start = .
+ *(.bss)
+ .bss           0x0000000006000f30        0x0 sh2_crt0.o
+ .bss           0x0000000006000f30        0x4 crtstuff.o
+                0x0000000006000f30                ___dso_handle
+ .bss           0x0000000006000f34    0x2bd24 main.o
+                0x0000000006000f34                _cameraXHistory
+                0x0000000006000f38                _cameraX
+                0x0000000006000f3a                _buttonsHeld
+                0x0000000006000f3c                _buttonsPressed
+                0x0000000006000f3e                _clearMdLayer
+                0x0000000006000f3f                _showFps
+                0x0000000006000f40                _showDebug
+                0x0000000006000f41                _cycler
+                0x0000000006000f42                _tileDrawQueueIndex
+                0x0000000006000f44                _tileDrawQueue
+                0x00000000060021d8                _sdramPalette
+                0x00000000060023d8                _sdramBackLayout
+                0x0000000006002458                _sdramFrontLayout
+                0x0000000006002c58                _sdramBlockMap
+                0x0000000006004c58                _sdramMetablockMap
+                0x000000000600cc58                _sdramArt
+ .bss           0x000000000602cc58       0x1c hw_32x.o
+ .bss           0x000000000602cc74        0x0 font.o
+ .bss           0x000000000602cc74        0x0 palettes.o
+ .bss           0x000000000602cc74        0x0 art.o
+ .bss           0x000000000602cc74        0x0 bmap.o
+ .bss           0x000000000602cc74        0x0 meta.o
+ .bss           0x000000000602cc74        0x0 flayout.o
+ .bss           0x000000000602cc74        0x0 blayout.o
+ .bss           0x000000000602cc74        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-__call_atexit.o)
+ .bss           0x000000000602cc74        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-atexit.o)
+ .bss           0x000000000602cc74        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-impure.o)
+ .bss           0x000000000602cc74        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-vsnprintf.o)
+ .bss           0x000000000602cc74        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-__atexit.o)
+ .bss           0x000000000602cc74        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfprintf.o)
+ .bss           0x000000000602cc74        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-dtoa.o)
+ .bss           0x000000000602cc74        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-localeconv.o)
+ .bss           0x000000000602cc74       0x34 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mallocr.o)
+                0x000000000602cc74                ___malloc_current_mallinfo
+                0x000000000602cc9c                ___malloc_max_total_mem
+                0x000000000602cca0                ___malloc_max_sbrked_mem
+                0x000000000602cca4                ___malloc_top_pad
+ .bss           0x000000000602cca8        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memchr.o)
+ .bss           0x000000000602cca8        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memcpy.o)
+ .bss           0x000000000602cca8        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mlock.o)
+ .bss           0x000000000602cca8        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mprec.o)
+ .bss           0x000000000602cca8        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-sbrkr.o)
+ .bss           0x000000000602cca8        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-strlen.o)
+ .bss           0x000000000602cca8        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfiprintf.o)
+ .bss           0x000000000602cca8        0x4 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-syscalls.o)
+ .bss           0x000000000602ccac        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-trap.o)
+ .bss           0x000000000602ccac        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-abort.o)
+ .bss           0x000000000602ccac        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-callocr.o)
+ .bss           0x000000000602ccac        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-freer.o)
+ .bss           0x000000000602ccac        0x4 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-locale.o)
+                0x000000000602ccac                __PathLocale
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mbtowc_r.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memmove.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memset.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-reallocr.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-signal.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-signalr.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-strcmp.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-wctomb_r.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-ctype_.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ashiftrt.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ashiftrt_n.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ashiftlt.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_lshiftrt.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_sdivsi3.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_udivsi3.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_udivdi3.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_umoddi3.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_addsub_df.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_mul_df.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_div_df.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_eq_df.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ne_df.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_gt_df.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ge_df.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_lt_df.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_le_df.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_unord_df.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_si_to_df.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_df_to_si.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_thenan_df.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_usi_to_df.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_udiv_qrnnd_16.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_clz.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_clzsi2.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_pack_df.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_unpack_df.o)
+ .bss           0x000000000602ccb0        0x0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_fpcmp_parts_df.o)
+ *(.bss.*)
+ *(.gnu.linkonce.b.*)
+ *(.sbss)
+ *(.sbss.*)
+ *(.gnu.linkonce.sb.*)
+ *(.scommon)
+ *(COMMON)
+ COMMON         0x000000000602ccb0        0x4 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-syscalls.o)
+                0x000000000602ccb0                _errno
+                0x000000000602ccc0                . = ALIGN (0x10)
+ *fill*         0x000000000602ccb4        0xc 
+                0x000000000602ccc0                end = .
+                0x000000000602ccc0                _end = end
+                0x000000000602ccc0                __end = _end
+                0x000000000602ccc0                __bss_end = .
+                0x000000000002bd90                __bss_size = (__bss_end - __bss_start)
+OUTPUT(ProSonic.elf elf32-sh)
+
+.comment        0x0000000000000000       0x11
+ .comment       0x0000000000000000       0x11 crtstuff.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 main.o
+ .comment       0x0000000000000011       0x12 hw_32x.o
+ .comment       0x0000000000000011       0x12 font.o
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-__call_atexit.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-atexit.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-impure.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-vsnprintf.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-__atexit.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfprintf.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-dtoa.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-localeconv.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mallocr.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memchr.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mlock.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mprec.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-sbrkr.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfiprintf.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-syscalls.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-abort.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-callocr.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-freer.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-locale.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mbtowc_r.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memmove.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-reallocr.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-signal.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-signalr.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-wctomb_r.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-ctype_.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_udivdi3.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_umoddi3.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_addsub_df.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_mul_df.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_div_df.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_eq_df.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ne_df.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_gt_df.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ge_df.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_lt_df.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_le_df.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_unord_df.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_si_to_df.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_df_to_si.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_thenan_df.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_usi_to_df.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_clz.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_clzsi2.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_pack_df.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_unpack_df.o)
+ .comment       0x0000000000000011       0x12 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_fpcmp_parts_df.o)
+
+.debug_info     0x0000000000000000    0x1f6be
+ .debug_info    0x0000000000000000      0x9e8 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-__call_atexit.o)
+ .debug_info    0x00000000000009e8      0x991 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-atexit.o)
+ .debug_info    0x0000000000001379      0x92a /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-impure.o)
+ .debug_info    0x0000000000001ca3      0xcbf /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-vsnprintf.o)
+ .debug_info    0x0000000000002962      0x9bf /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-__atexit.o)
+ .debug_info    0x0000000000003321     0x1df9 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfprintf.o)
+ .debug_info    0x000000000000511a     0x1aa8 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-dtoa.o)
+ .debug_info    0x0000000000006bc2      0xf39 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-localeconv.o)
+ .debug_info    0x0000000000007afb      0xe5d /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mallocr.o)
+ .debug_info    0x0000000000008958      0x9c3 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memchr.o)
+ .debug_info    0x000000000000931b      0x961 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mlock.o)
+ .debug_info    0x0000000000009c7c     0x1e13 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mprec.o)
+ .debug_info    0x000000000000ba8f      0x9ec /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-sbrkr.o)
+ .debug_info    0x000000000000c47b     0x1893 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfiprintf.o)
+ .debug_info    0x000000000000dd0e     0x16d5 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-syscalls.o)
+ .debug_info    0x000000000000f3e3      0x9b5 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-abort.o)
+ .debug_info    0x000000000000fd98      0xc11 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-callocr.o)
+ .debug_info    0x00000000000109a9      0xd7c /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-freer.o)
+ .debug_info    0x0000000000011725     0x10b1 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-locale.o)
+ .debug_info    0x00000000000127d6     0x1017 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mbtowc_r.o)
+ .debug_info    0x00000000000137ed      0xf15 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memmove.o)
+ .debug_info    0x0000000000014702      0xead /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-reallocr.o)
+ .debug_info    0x00000000000155af      0xce8 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-signal.o)
+ .debug_info    0x0000000000016297      0xa57 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-signalr.o)
+ .debug_info    0x0000000000016cee      0xfdb /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-wctomb_r.o)
+ .debug_info    0x0000000000017cc9      0xeab /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-ctype_.o)
+ .debug_info    0x0000000000018b74      0x73b /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_udivdi3.o)
+ .debug_info    0x00000000000192af      0x74a /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_umoddi3.o)
+ .debug_info    0x00000000000199f9      0x740 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_addsub_df.o)
+ .debug_info    0x000000000001a139      0x6e9 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_mul_df.o)
+ .debug_info    0x000000000001a822      0x5e6 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_div_df.o)
+ .debug_info    0x000000000001ae08      0x4f4 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_eq_df.o)
+ .debug_info    0x000000000001b2fc      0x4f4 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ne_df.o)
+ .debug_info    0x000000000001b7f0      0x4f4 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_gt_df.o)
+ .debug_info    0x000000000001bce4      0x4f4 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ge_df.o)
+ .debug_info    0x000000000001c1d8      0x4f4 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_lt_df.o)
+ .debug_info    0x000000000001c6cc      0x4f4 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_le_df.o)
+ .debug_info    0x000000000001cbc0      0x4cd /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_unord_df.o)
+ .debug_info    0x000000000001d08d      0x494 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_si_to_df.o)
+ .debug_info    0x000000000001d521      0x4ce /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_df_to_si.o)
+ .debug_info    0x000000000001d9ef      0x391 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_thenan_df.o)
+ .debug_info    0x000000000001dd80      0x499 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_usi_to_df.o)
+ .debug_info    0x000000000001e219      0x371 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_clz.o)
+ .debug_info    0x000000000001e58a      0x3de /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_clzsi2.o)
+ .debug_info    0x000000000001e968      0x4d4 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_pack_df.o)
+ .debug_info    0x000000000001ee3c      0x45d /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_unpack_df.o)
+ .debug_info    0x000000000001f299      0x425 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_fpcmp_parts_df.o)
+
+.debug_abbrev   0x0000000000000000     0x6998
+ .debug_abbrev  0x0000000000000000      0x24f /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x000000000000024f      0x22f /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-atexit.o)
+ .debug_abbrev  0x000000000000047e      0x1b8 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-impure.o)
+ .debug_abbrev  0x0000000000000636      0x288 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-vsnprintf.o)
+ .debug_abbrev  0x00000000000008be      0x246 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-__atexit.o)
+ .debug_abbrev  0x0000000000000b04      0x40d /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfprintf.o)
+ .debug_abbrev  0x0000000000000f11      0x32f /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-dtoa.o)
+ .debug_abbrev  0x0000000000001240      0x274 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-localeconv.o)
+ .debug_abbrev  0x00000000000014b4      0x30f /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mallocr.o)
+ .debug_abbrev  0x00000000000017c3      0x209 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memchr.o)
+ .debug_abbrev  0x00000000000019cc      0x203 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mlock.o)
+ .debug_abbrev  0x0000000000001bcf      0x44f /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mprec.o)
+ .debug_abbrev  0x000000000000201e      0x247 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-sbrkr.o)
+ .debug_abbrev  0x0000000000002265      0x31e /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfiprintf.o)
+ .debug_abbrev  0x0000000000002583      0x418 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-syscalls.o)
+ .debug_abbrev  0x000000000000299b      0x20b /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-abort.o)
+ .debug_abbrev  0x0000000000002ba6      0x269 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-callocr.o)
+ .debug_abbrev  0x0000000000002e0f      0x2bd /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-freer.o)
+ .debug_abbrev  0x00000000000030cc      0x2dd /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-locale.o)
+ .debug_abbrev  0x00000000000033a9      0x278 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mbtowc_r.o)
+ .debug_abbrev  0x0000000000003621      0x202 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memmove.o)
+ .debug_abbrev  0x0000000000003823      0x29f /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-reallocr.o)
+ .debug_abbrev  0x0000000000003ac2      0x343 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-signal.o)
+ .debug_abbrev  0x0000000000003e05      0x25d /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-signalr.o)
+ .debug_abbrev  0x0000000000004062      0x260 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-wctomb_r.o)
+ .debug_abbrev  0x00000000000042c2      0x1c5 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-ctype_.o)
+ .debug_abbrev  0x0000000000004487      0x218 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x000000000000469f      0x22b /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_umoddi3.o)
+ .debug_abbrev  0x00000000000048ca      0x244 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_addsub_df.o)
+ .debug_abbrev  0x0000000000004b0e      0x27c /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_mul_df.o)
+ .debug_abbrev  0x0000000000004d8a      0x25c /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_div_df.o)
+ .debug_abbrev  0x0000000000004fe6      0x1b7 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_eq_df.o)
+ .debug_abbrev  0x000000000000519d      0x1b7 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ne_df.o)
+ .debug_abbrev  0x0000000000005354      0x1b7 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_gt_df.o)
+ .debug_abbrev  0x000000000000550b      0x1b7 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ge_df.o)
+ .debug_abbrev  0x00000000000056c2      0x1b7 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_lt_df.o)
+ .debug_abbrev  0x0000000000005879      0x1b7 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_le_df.o)
+ .debug_abbrev  0x0000000000005a30      0x1b7 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_unord_df.o)
+ .debug_abbrev  0x0000000000005be7      0x1fb /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_si_to_df.o)
+ .debug_abbrev  0x0000000000005de2      0x1bb /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_df_to_si.o)
+ .debug_abbrev  0x0000000000005f9d      0x11c /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_thenan_df.o)
+ .debug_abbrev  0x00000000000060b9      0x21e /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_usi_to_df.o)
+ .debug_abbrev  0x00000000000062d7       0xcf /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_clz.o)
+ .debug_abbrev  0x00000000000063a6      0x129 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x00000000000064cf      0x1cb /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_pack_df.o)
+ .debug_abbrev  0x000000000000669a      0x18b /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_unpack_df.o)
+ .debug_abbrev  0x0000000000006825      0x173 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_fpcmp_parts_df.o)
+
+.debug_loc      0x0000000000000000     0xe7b5
+ .debug_loc     0x0000000000000000      0x18b /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-__call_atexit.o)
+ .debug_loc     0x000000000000018b       0x2c /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-atexit.o)
+ .debug_loc     0x00000000000001b7      0x286 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-vsnprintf.o)
+ .debug_loc     0x000000000000043d       0xd4 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-__atexit.o)
+ .debug_loc     0x0000000000000511     0x27da /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfprintf.o)
+ .debug_loc     0x0000000000002ceb     0x27d3 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-dtoa.o)
+ .debug_loc     0x00000000000054be       0x21 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-localeconv.o)
+ .debug_loc     0x00000000000054df      0xb81 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mallocr.o)
+ .debug_loc     0x0000000000006060      0x1cf /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memchr.o)
+ .debug_loc     0x000000000000622f     0x2089 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mprec.o)
+ .debug_loc     0x00000000000082b8       0x66 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-sbrkr.o)
+ .debug_loc     0x000000000000831e     0x14e2 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfiprintf.o)
+ .debug_loc     0x0000000000009800      0x7a1 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-syscalls.o)
+ .debug_loc     0x0000000000009fa1      0x293 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-callocr.o)
+ .debug_loc     0x000000000000a234      0x5d6 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-freer.o)
+ .debug_loc     0x000000000000a80a      0x14d /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-locale.o)
+ .debug_loc     0x000000000000a957       0xce /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mbtowc_r.o)
+ .debug_loc     0x000000000000aa25      0x2bc /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memmove.o)
+ .debug_loc     0x000000000000ace1      0xf32 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-reallocr.o)
+ .debug_loc     0x000000000000bc13      0x477 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-signal.o)
+ .debug_loc     0x000000000000c08a       0xb3 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-signalr.o)
+ .debug_loc     0x000000000000c13d       0x84 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-wctomb_r.o)
+ .debug_loc     0x000000000000c1c1      0x84c /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_udivdi3.o)
+ .debug_loc     0x000000000000ca0d      0x7d7 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_umoddi3.o)
+ .debug_loc     0x000000000000d1e4      0x711 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_addsub_df.o)
+ .debug_loc     0x000000000000d8f5      0x4d5 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_mul_df.o)
+ .debug_loc     0x000000000000ddca      0x1c0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_div_df.o)
+ .debug_loc     0x000000000000df8a       0x50 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_eq_df.o)
+ .debug_loc     0x000000000000dfda       0x50 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ne_df.o)
+ .debug_loc     0x000000000000e02a       0x50 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_gt_df.o)
+ .debug_loc     0x000000000000e07a       0x50 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ge_df.o)
+ .debug_loc     0x000000000000e0ca       0x50 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_lt_df.o)
+ .debug_loc     0x000000000000e11a       0x50 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_le_df.o)
+ .debug_loc     0x000000000000e16a       0x50 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_unord_df.o)
+ .debug_loc     0x000000000000e1ba       0xd1 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_si_to_df.o)
+ .debug_loc     0x000000000000e28b       0x46 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_df_to_si.o)
+ .debug_loc     0x000000000000e2d1       0x97 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_usi_to_df.o)
+ .debug_loc     0x000000000000e368       0x5a /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_clzsi2.o)
+ .debug_loc     0x000000000000e3c2      0x33e /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_pack_df.o)
+ .debug_loc     0x000000000000e700       0xb5 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_unpack_df.o)
+
+.debug_aranges  0x0000000000000000      0x5c0
+ .debug_aranges
+                0x0000000000000000       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x0000000000000020       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-atexit.o)
+ .debug_aranges
+                0x0000000000000040       0x18 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-impure.o)
+ .debug_aranges
+                0x0000000000000058       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-vsnprintf.o)
+ .debug_aranges
+                0x0000000000000078       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x0000000000000098       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfprintf.o)
+ .debug_aranges
+                0x00000000000000b8       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-dtoa.o)
+ .debug_aranges
+                0x00000000000000d8       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-localeconv.o)
+ .debug_aranges
+                0x00000000000000f8       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mallocr.o)
+ .debug_aranges
+                0x0000000000000118       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memchr.o)
+ .debug_aranges
+                0x0000000000000138       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mlock.o)
+ .debug_aranges
+                0x0000000000000158       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mprec.o)
+ .debug_aranges
+                0x0000000000000178       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-sbrkr.o)
+ .debug_aranges
+                0x0000000000000198       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfiprintf.o)
+ .debug_aranges
+                0x00000000000001b8       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-syscalls.o)
+ .debug_aranges
+                0x00000000000001d8       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-abort.o)
+ .debug_aranges
+                0x00000000000001f8       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-callocr.o)
+ .debug_aranges
+                0x0000000000000218       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-freer.o)
+ .debug_aranges
+                0x0000000000000238       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-locale.o)
+ .debug_aranges
+                0x0000000000000258       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mbtowc_r.o)
+ .debug_aranges
+                0x0000000000000278       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memmove.o)
+ .debug_aranges
+                0x0000000000000298       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-reallocr.o)
+ .debug_aranges
+                0x00000000000002b8       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-signal.o)
+ .debug_aranges
+                0x00000000000002d8       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-signalr.o)
+ .debug_aranges
+                0x00000000000002f8       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-wctomb_r.o)
+ .debug_aranges
+                0x0000000000000318       0x18 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-ctype_.o)
+ .debug_aranges
+                0x0000000000000330       0x20 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x0000000000000350       0x20 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_umoddi3.o)
+ .debug_aranges
+                0x0000000000000370       0x20 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_addsub_df.o)
+ .debug_aranges
+                0x0000000000000390       0x20 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_mul_df.o)
+ .debug_aranges
+                0x00000000000003b0       0x20 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_div_df.o)
+ .debug_aranges
+                0x00000000000003d0       0x20 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_eq_df.o)
+ .debug_aranges
+                0x00000000000003f0       0x20 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ne_df.o)
+ .debug_aranges
+                0x0000000000000410       0x20 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_gt_df.o)
+ .debug_aranges
+                0x0000000000000430       0x20 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ge_df.o)
+ .debug_aranges
+                0x0000000000000450       0x20 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_lt_df.o)
+ .debug_aranges
+                0x0000000000000470       0x20 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_le_df.o)
+ .debug_aranges
+                0x0000000000000490       0x20 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_unord_df.o)
+ .debug_aranges
+                0x00000000000004b0       0x20 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_si_to_df.o)
+ .debug_aranges
+                0x00000000000004d0       0x20 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_df_to_si.o)
+ .debug_aranges
+                0x00000000000004f0       0x18 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_thenan_df.o)
+ .debug_aranges
+                0x0000000000000508       0x20 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_usi_to_df.o)
+ .debug_aranges
+                0x0000000000000528       0x18 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_clz.o)
+ .debug_aranges
+                0x0000000000000540       0x20 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x0000000000000560       0x20 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_pack_df.o)
+ .debug_aranges
+                0x0000000000000580       0x20 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_unpack_df.o)
+ .debug_aranges
+                0x00000000000005a0       0x20 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_fpcmp_parts_df.o)
+
+.debug_ranges   0x0000000000000000      0x8d0
+ .debug_ranges  0x0000000000000000       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-__call_atexit.o)
+ .debug_ranges  0x0000000000000020      0x1c0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfprintf.o)
+ .debug_ranges  0x00000000000001e0       0x30 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mallocr.o)
+ .debug_ranges  0x0000000000000210       0x60 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mprec.o)
+ .debug_ranges  0x0000000000000270       0x50 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfiprintf.o)
+ .debug_ranges  0x00000000000002c0       0x18 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-syscalls.o)
+ .debug_ranges  0x00000000000002d8       0x68 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-callocr.o)
+ .debug_ranges  0x0000000000000340      0x110 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-reallocr.o)
+ .debug_ranges  0x0000000000000450       0x30 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-signal.o)
+ .debug_ranges  0x0000000000000480       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-signalr.o)
+ .debug_ranges  0x00000000000004a0       0xb8 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_udivdi3.o)
+ .debug_ranges  0x0000000000000558       0xe0 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_umoddi3.o)
+ .debug_ranges  0x0000000000000638       0x60 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_addsub_df.o)
+ .debug_ranges  0x0000000000000698       0xa8 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_mul_df.o)
+ .debug_ranges  0x0000000000000740       0x50 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_div_df.o)
+ .debug_ranges  0x0000000000000790       0x48 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_si_to_df.o)
+ .debug_ranges  0x00000000000007d8       0x30 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_usi_to_df.o)
+ .debug_ranges  0x0000000000000808       0x38 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_clzsi2.o)
+ .debug_ranges  0x0000000000000840       0x90 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_pack_df.o)
+
+.debug_line     0x0000000000000000     0xb0be
+ .debug_line    0x0000000000000000      0x298 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-__call_atexit.o)
+ .debug_line    0x0000000000000298      0x18c /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-atexit.o)
+ .debug_line    0x0000000000000424      0x10b /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-impure.o)
+ .debug_line    0x000000000000052f      0x295 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-vsnprintf.o)
+ .debug_line    0x00000000000007c4      0x255 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-__atexit.o)
+ .debug_line    0x0000000000000a19     0x16f1 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfprintf.o)
+ .debug_line    0x000000000000210a     0x14c9 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-dtoa.o)
+ .debug_line    0x00000000000035d3      0x209 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-localeconv.o)
+ .debug_line    0x00000000000037dc      0x7c7 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mallocr.o)
+ .debug_line    0x0000000000003fa3      0x25d /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memchr.o)
+ .debug_line    0x0000000000004200      0x179 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mlock.o)
+ .debug_line    0x0000000000004379     0x1413 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mprec.o)
+ .debug_line    0x000000000000578c      0x1bd /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-sbrkr.o)
+ .debug_line    0x0000000000005949      0xf55 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfiprintf.o)
+ .debug_line    0x000000000000689e      0x489 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-syscalls.o)
+ .debug_line    0x0000000000006d27      0x19b /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-abort.o)
+ .debug_line    0x0000000000006ec2      0x1db /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-callocr.o)
+ .debug_line    0x000000000000709d      0x511 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-freer.o)
+ .debug_line    0x00000000000075ae      0x2bd /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-locale.o)
+ .debug_line    0x000000000000786b      0x285 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mbtowc_r.o)
+ .debug_line    0x0000000000007af0      0x2ce /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memmove.o)
+ .debug_line    0x0000000000007dbe      0x585 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-reallocr.o)
+ .debug_line    0x0000000000008343      0x3e1 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-signal.o)
+ .debug_line    0x0000000000008724      0x1d0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-signalr.o)
+ .debug_line    0x00000000000088f4      0x237 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-wctomb_r.o)
+ .debug_line    0x0000000000008b2b      0x1d6 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-ctype_.o)
+ .debug_line    0x0000000000008d01      0x285 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_udivdi3.o)
+ .debug_line    0x0000000000008f86      0x2fe /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_umoddi3.o)
+ .debug_line    0x0000000000009284      0x3ee /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_addsub_df.o)
+ .debug_line    0x0000000000009672      0x344 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_mul_df.o)
+ .debug_line    0x00000000000099b6      0x271 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_div_df.o)
+ .debug_line    0x0000000000009c27      0x111 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_eq_df.o)
+ .debug_line    0x0000000000009d38      0x111 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ne_df.o)
+ .debug_line    0x0000000000009e49      0x111 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_gt_df.o)
+ .debug_line    0x0000000000009f5a      0x111 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ge_df.o)
+ .debug_line    0x000000000000a06b      0x111 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_lt_df.o)
+ .debug_line    0x000000000000a17c      0x111 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_le_df.o)
+ .debug_line    0x000000000000a28d      0x10d /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_unord_df.o)
+ .debug_line    0x000000000000a39a      0x18f /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_si_to_df.o)
+ .debug_line    0x000000000000a529      0x156 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_df_to_si.o)
+ .debug_line    0x000000000000a67f       0xa2 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_thenan_df.o)
+ .debug_line    0x000000000000a721      0x159 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_usi_to_df.o)
+ .debug_line    0x000000000000a87a       0xd6 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_clz.o)
+ .debug_line    0x000000000000a950      0x129 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_clzsi2.o)
+ .debug_line    0x000000000000aa79      0x2c2 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_pack_df.o)
+ .debug_line    0x000000000000ad3b      0x196 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_unpack_df.o)
+ .debug_line    0x000000000000aed1      0x1ed /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_fpcmp_parts_df.o)
+
+.debug_str      0x0000000000000000     0x226f
+ .debug_str     0x0000000000000000      0x4e9 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-__call_atexit.o)
+                                        0x57e (size before relaxing)
+ .debug_str     0x00000000000004e9       0x7c /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-atexit.o)
+                                        0x580 (size before relaxing)
+ .debug_str     0x0000000000000565       0x9f /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-impure.o)
+                                        0x535 (size before relaxing)
+ .debug_str     0x0000000000000604      0x206 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-vsnprintf.o)
+                                        0x6dc (size before relaxing)
+ .debug_str     0x000000000000080a       0x3a /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-__atexit.o)
+                                        0x59e (size before relaxing)
+ .debug_str     0x0000000000000844      0x499 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfprintf.o)
+                                        0xc20 (size before relaxing)
+ .debug_str     0x0000000000000cdd      0x175 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-dtoa.o)
+                                        0xa3b (size before relaxing)
+ .debug_str     0x0000000000000e52       0xfb /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-localeconv.o)
+                                        0x8c7 (size before relaxing)
+ .debug_str     0x0000000000000f4d      0x22f /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mallocr.o)
+                                        0x79d (size before relaxing)
+ .debug_str     0x000000000000117c       0xa8 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memchr.o)
+                                        0x553 (size before relaxing)
+ .debug_str     0x0000000000001224       0x50 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mlock.o)
+                                        0x561 (size before relaxing)
+ .debug_str     0x0000000000001274       0x91 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mprec.o)
+                                        0x9e4 (size before relaxing)
+ .debug_str     0x0000000000001305       0x4b /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-sbrkr.o)
+                                        0x578 (size before relaxing)
+ .debug_str     0x0000000000001350       0x30 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfiprintf.o)
+                                        0xba1 (size before relaxing)
+ .debug_str     0x0000000000001380      0x306 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-syscalls.o)
+                                        0x834 (size before relaxing)
+ .debug_str     0x0000000000001686       0x37 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-abort.o)
+                                        0x573 (size before relaxing)
+ .debug_str     0x00000000000016bd       0x16 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-callocr.o)
+                                        0x6c1 (size before relaxing)
+ .debug_str     0x00000000000016d3       0x34 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-freer.o)
+                                        0x716 (size before relaxing)
+ .debug_str     0x0000000000001707       0x90 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-locale.o)
+                                        0x910 (size before relaxing)
+ .debug_str     0x0000000000001797       0x59 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mbtowc_r.o)
+                                        0x8d8 (size before relaxing)
+ .debug_str     0x00000000000017f0       0x5a /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memmove.o)
+                                        0x881 (size before relaxing)
+ .debug_str     0x000000000000184a       0x4e /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-reallocr.o)
+                                        0x754 (size before relaxing)
+ .debug_str     0x0000000000001898       0xfb /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-signal.o)
+                                        0x5d8 (size before relaxing)
+ .debug_str     0x0000000000001993       0x38 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-signalr.o)
+                                        0x57d (size before relaxing)
+ .debug_str     0x00000000000019cb       0x5a /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-wctomb_r.o)
+                                        0x8df (size before relaxing)
+ .debug_str     0x0000000000001a25       0x93 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-ctype_.o)
+                                        0x856 (size before relaxing)
+ .debug_str     0x0000000000001ab8      0x4da /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_udivdi3.o)
+                                        0x5a2 (size before relaxing)
+ .debug_str     0x0000000000001f92        0xa /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_umoddi3.o)
+                                        0x5a2 (size before relaxing)
+ .debug_str     0x0000000000001f9c      0x1c5 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_addsub_df.o)
+                                        0x60f (size before relaxing)
+ .debug_str     0x0000000000002161       0x40 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_mul_df.o)
+                                        0x5e1 (size before relaxing)
+ .debug_str     0x00000000000021a1       0x35 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_div_df.o)
+                                        0x5d1 (size before relaxing)
+ .debug_str     0x00000000000021d6       0x20 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_eq_df.o)
+                                        0x59e (size before relaxing)
+ .debug_str     0x00000000000021f6        0x8 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ne_df.o)
+                                        0x59e (size before relaxing)
+ .debug_str     0x00000000000021fe        0x8 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_gt_df.o)
+                                        0x59e (size before relaxing)
+ .debug_str     0x0000000000002206        0x8 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ge_df.o)
+                                        0x59e (size before relaxing)
+ .debug_str     0x000000000000220e        0x8 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_lt_df.o)
+                                        0x59e (size before relaxing)
+ .debug_str     0x0000000000002216        0x8 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_le_df.o)
+                                        0x59e (size before relaxing)
+ .debug_str     0x000000000000221e        0xb /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_unord_df.o)
+                                        0x591 (size before relaxing)
+ .debug_str     0x0000000000002229       0x21 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_si_to_df.o)
+                                        0x579 (size before relaxing)
+ .debug_str     0x000000000000224a        0xa /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_df_to_si.o)
+                                        0x596 (size before relaxing)
+ .debug_str     0x0000000000002254      0x52c /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_thenan_df.o)
+ .debug_str     0x0000000000002254       0x14 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_usi_to_df.o)
+                                        0x575 (size before relaxing)
+ .debug_str     0x0000000000002268      0x51f /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_clz.o)
+ .debug_str     0x0000000000002268      0x53c /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_clzsi2.o)
+ .debug_str     0x0000000000002268        0x7 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_pack_df.o)
+                                        0x58a (size before relaxing)
+ .debug_str     0x000000000000226f      0x56c /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_unpack_df.o)
+ .debug_str     0x000000000000226f      0x54f /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_fpcmp_parts_df.o)
+
+.debug_frame    0x0000000000000000     0x1824
+ .debug_frame   0x0000000000000000       0x74 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000000074       0x20 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000000094       0x84 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-vsnprintf.o)
+ .debug_frame   0x0000000000000118       0x3c /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x0000000000000154       0x74 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfprintf.o)
+ .debug_frame   0x00000000000001c8      0x148 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-dtoa.o)
+ .debug_frame   0x0000000000000310       0x40 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-localeconv.o)
+ .debug_frame   0x0000000000000350       0x98 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mallocr.o)
+ .debug_frame   0x00000000000003e8       0x3c /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memchr.o)
+ .debug_frame   0x0000000000000424       0x30 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000000454      0x524 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mprec.o)
+ .debug_frame   0x0000000000000978       0x4c /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000000000009c4      0x104 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-svfiprintf.o)
+ .debug_frame   0x0000000000000ac8      0x2a0 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-syscalls.o)
+ .debug_frame   0x0000000000000d68       0x28 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-abort.o)
+ .debug_frame   0x0000000000000d90       0x40 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-callocr.o)
+ .debug_frame   0x0000000000000dd0       0xdc /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-freer.o)
+ .debug_frame   0x0000000000000eac       0x64 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-locale.o)
+ .debug_frame   0x0000000000000f10       0x40 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-mbtowc_r.o)
+ .debug_frame   0x0000000000000f50       0x34 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-memmove.o)
+ .debug_frame   0x0000000000000f84       0xe4 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-reallocr.o)
+ .debug_frame   0x0000000000001068      0x16c /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-signal.o)
+ .debug_frame   0x00000000000011d4       0x5c /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-signalr.o)
+ .debug_frame   0x0000000000001230       0x30 /opt/toolchains/sega/sh-elf/sh-elf/lib/libc.a(lib_a-wctomb_r.o)
+ .debug_frame   0x0000000000001260      0x138 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_addsub_df.o)
+ .debug_frame   0x0000000000001398       0x98 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_mul_df.o)
+ .debug_frame   0x0000000000001430       0x50 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_div_df.o)
+ .debug_frame   0x0000000000001480       0x48 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_eq_df.o)
+ .debug_frame   0x00000000000014c8       0x48 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ne_df.o)
+ .debug_frame   0x0000000000001510       0x48 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_gt_df.o)
+ .debug_frame   0x0000000000001558       0x48 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_ge_df.o)
+ .debug_frame   0x00000000000015a0       0x48 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_lt_df.o)
+ .debug_frame   0x00000000000015e8       0x48 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_le_df.o)
+ .debug_frame   0x0000000000001630       0x48 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_unord_df.o)
+ .debug_frame   0x0000000000001678       0x3c /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_si_to_df.o)
+ .debug_frame   0x00000000000016b4       0x48 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_df_to_si.o)
+ .debug_frame   0x00000000000016fc       0x58 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_usi_to_df.o)
+ .debug_frame   0x0000000000001754       0x20 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_clzsi2.o)
+ .debug_frame   0x0000000000001774       0x70 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_pack_df.o)
+ .debug_frame   0x00000000000017e4       0x20 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_unpack_df.o)
+ .debug_frame   0x0000000000001804       0x20 /opt/toolchains/sega/sh-elf/lib/gcc/sh-elf/9.1.0/libgcc.a(_fpcmp_parts_df.o)
